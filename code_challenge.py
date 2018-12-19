@@ -3,7 +3,7 @@ import json
 import sys
 
 url = "http://ec2-34-216-8-43.us-west-2.compute.amazonaws.com"
-uid = { "uid": 504995907 }
+uid = { "uid": 000000000 }
 header = { "Content-Type": "application/x-www-form-urlencoded" }
 token = ""
 currentLoc = [0, 0]
